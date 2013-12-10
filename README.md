@@ -1,2 +1,2 @@
-stianh.github.io
+CV Stian Hegglund
 ================
